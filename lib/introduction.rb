@@ -1,4 +1,4 @@
-def introduction_with_language("Dan","Ember.js")
+def introduction_with_language(name,"Ember.js")
 end
 
 
